@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SoftCellTest</string>
+    <string name="no_user_found">No Users Found.</string>
+    <string name="no_internet">No Internet Connection !!</string>
+
+    <string name="try_again">RETRY</string>
+    <string name="please_try_again">Please try again</string>
+    <string name="something_went_wrong">Looks Something went wrong</string>
+    <string name="no_internet_connection">Internet Error</string>
+    <string name="please_check_network">Please check your internet connection.\nAnd try again once you got network </string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="emailid">Email Id</string>
+    <string name="loanamount">Loan Amount</string>
+    <string name="pannumber">PAN Number</string>
+    <string name="aadharnumber">Aadhar Number</string>
+    <string name="voterid">Voter Id</string>
+    <string name="add">Add</string>
+    <string name="valid_cars_numeric">1234567890</string>
+    <string name="valid_email">1234567890@.abcd</string>
+
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="invalid_cred">Invalid Credits</string>
+    <string name="login_success">Login Success</string>
+    <string name="err_username">Enter username</string>
+    <string name="err_password">Enter password</string>
+    <string name="reset_your_password">Reset your password?</string>
+    <string name="Rs">\u20B9</string>
+    <string name="amount">%1$s %2$d </string>
+    <string name="str_failed_login">Invalid credential :(</string>
+    <string name="enter_valid_emailid">Enter valid email</string>
+    <string name="enter_firstname">Enter first name</string>
+    <string name="enter_lastname">Enter last name</string>
+    <string name="enter_valid_pancard">Enter valid PAN card number</string>
+    <string name="enter_valid_voterId">Enter valid Voter id</string>
+    <string name="enter_valid_aadharNumber">Enter valid Aadhar number</string>
+    <string name="enter_valid_loanAmount">Enter valid loan amount</string>
+    <string name="enter_range_loanAmount">Amount should be less then 100000</string>
+    <string name="internet_error">Sorry, something went wrong with internet. Please try again soon.</string>
+
+
+</resources>
